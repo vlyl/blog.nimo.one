@@ -1,4 +1,4 @@
-baseurl = "http://vlyl.github.io/"  # Include trailing slash
+baseurl = "http://blog.nimo.one/"  # Include trailing slash
 title = "NIMO ONE"
 theme = "hugo-swift-theme"
 # theme = "swift"

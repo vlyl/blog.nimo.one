@@ -1,7 +1,7 @@
 ---
 author: "Shannon"
 date: 2021-01-06
-title: Creating a New Theme
+title: Welcome to NIMO
 image: "nimologo.png"
 ---
 

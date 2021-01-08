@@ -1,4 +1,4 @@
-baseurl = "https://vibrant-jones-55b523.netlify.app"  # Include trailing slash
+baseurl = "https://blog.nimo.one"  # Include trailing slash
 title = "NIMO ONE"
 theme = "hugo-swift-theme"
 # theme = "swift"
